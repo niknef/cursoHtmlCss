@@ -1,0 +1,21 @@
+-UN POCO DE HISTORIA DE HTML Y CSS:
+    1990 timoti se vio  con la necesidad decomunicar informacion con su equipo de trabajo en otra partes del mundo
+    se crea http y https 
+    html y el primer navegador y luego el CSS
+
+
+    HTML: 
+    es un lenguaje de programacion 
+
+    bueno vamos a crear nuestro primer archivo.
+
+    siempre el archivo de inicio se va a llamar index.
+    es un standar.
+
+        -<html>ESTA ETIQUETA ABARCA TODO EL CONTENIDO DE LA WEB</html>
+
+        -<head>CABECERA NO VISIBLE </head>
+
+        -<body>PARTE VISIBLE DENTRO DE LA WEB</body>
+
+        
