@@ -18,4 +18,76 @@
 
         -<body>PARTE VISIBLE DENTRO DE LA WEB</body>
 
+        https://developer.mozilla.org/es/docs/Web/HTML/Block-level_elements
+
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
         
+        https://developer.mozilla.org/es/docs/Web/HTML/Inline_elements
+
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
+
+        https://developer.mozilla.org/es/docs/Web/HTML/Element/cite
+
+        https://developer.mozilla.org/es/docs/Web/HTML/Element/span
+
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+        https://www.smashingmagazine.com/2009/04/from-table-hell-to-div-hell/
+
+        https://medium.com/geekculture/important-difference-between-standard-html-tables-and-div-tables-b6b094ec2c79
+
+        https://www.w3.org/WAI/tutorials/tables/
+
+        https://stackoverflow.com/questions/83073/why-not-use-tables-for-layout-in-html
+
+        https://medium.com/geekculture/important-difference-between-standard-html-tables-and-div-tables-b6b094ec2c79
+
+        https://datos.gob.es/
+
+        https://code.visualstudio.com/docs/editor/emmet
+
+        https://docs.emmet.io/abbreviations/syntax/
+
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+
+        unsplash.com
+
+        https://www.w3.org/standards/webdesign/htmlcss.html
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS
+
+        https://www.awwwards.com/
+
+        https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+        
+        https://developer.mozilla.org/en-US/docs/Web/CSS/color
+
+        https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+        
+        https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
+        https://www.cssdesignawards.com/
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#formal_definition
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+
+        https://www.adobe.com/creativecloud/design/discover/serif-vs-sans-serif.html
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+
+        https://dev.to/clairecodes/my-misconceptions-about-the-universal-selector-in-css-4ngm
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/line-height
+        
+        https://developer.mozilla.org/en-US/docs/Web/CSS/border
+
+        https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
+        
+        https://developer.mozilla.org/en-US/docs/Web/CSS/background-size

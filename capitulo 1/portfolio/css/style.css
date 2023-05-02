@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #222;
+    color: white;
+    font: 200 14px "Poppins", sans-serif;
+}
+
+h2{
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h3{
+    font-size: 16px;
+    color: #999;
+    font-weight: 300;
+}
+
+p{
+    font-size: 14px;
+    text-align: justify;
+}
+.hastag{
+    color: #ffc900;
+}
+
+.seccion{
+    padding: 10px 100px 10px 100px;
+}
+
+#experiencia{
+    background-color: white;
+    color: #222;
+}
+
+#portfolio{
+    border-top: 1px solid #ffc900;
+}
+
+#inicio{
+    background-image: url(../imagenes/inicio.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 280px;
+}
