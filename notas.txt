@@ -91,3 +91,53 @@
         https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
         
         https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+
+
+        ----------------------------
+
+        https://fontawesome.com/
+
+        codepen.io 
+
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+   
+         https://developer.mozilla.org/en-US/docs/Web/CSS/list-style
+
+         https://developer.mozilla.org/en-US/docs/Web/CSS/float
+
+         
+
+            Eric Mayer: https://meyerweb.com/eric/css/
+            Eric Meyer | The Friction of Web Standards | CSS Day 2018: https://www.youtube.com/watch?v=cXoSOPyP2UM
+            Estelle Weyl: https://estelle.github.io/
+            Entrevista Eric Mayer, Max Bock: https://www.youtube.com/watch?v=qxwe-ixsTuI
+            Max Bock: https://mxb.dev/
+
+
+            https://developer.mozilla.org/es/docs/Web/HTML/Element/a
+
+            https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
+            https://developer.mozilla.org/en-US/docs/Web/CSS/:visited
+
+            https://developer.mozilla.org/en-US/docs/Web/CSS/:any-link
+
+            https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
+
+            https://css-tricks.com/almanac/selectors/a/any-link/#:~:text=The%20%3Aany%2Dlink%20pseudo%2D,link%3E%20and%20.
+
+            Super resumen de las etiquetas HTML semánticas y su uso: https://www.arkaitzgarro.com/html5/capitulo-2.html
+    
+            Flowchart de Doctor HTML5: http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
+
+
+
+
+            --------------------------------------
+            Repositorio curso:
+
+        https://github.com/mastermindac/curso-html-css-basico.git
+
+        Código usado en la clase:
+
+        https://github.com/mastermindac/curso-html-css-basico/tree/v2.30/portfolio
